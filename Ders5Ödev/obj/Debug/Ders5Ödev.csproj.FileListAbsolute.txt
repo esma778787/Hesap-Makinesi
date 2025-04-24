@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\bin\Debug\Ders5Ödev.exe.config
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\bin\Debug\Ders5Ödev.exe
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\bin\Debug\Ders5Ödev.pdb
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.Calc.resources
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.exe
+C:\Users\Lenovo\source\repos\Ders5Ödev\Ders5Ödev\obj\Debug\Ders5Ödev.pdb
